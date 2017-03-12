@@ -1,3 +1,4 @@
+var lol = 3;
 var GisplayLibrary =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
